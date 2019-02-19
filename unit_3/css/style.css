@@ -1,0 +1,13 @@
+body {
+	background-image: url("images/beach.jpg");
+	background-size: cover;
+	font-family: Gill Sans;
+}
+h1 {color: #FF8620;
+	text-align: center;
+	text-decoration: underline}
+p {color: #004D7D;
+	font-size: 20px}
+ul {color: #004D7D;
+	font-size: 20px;}
+#slogan {font-style: italic;}
